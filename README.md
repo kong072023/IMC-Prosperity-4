@@ -1,6 +1,6 @@
 # IMC-Prosperity-4
 
-Team UABT in IMC Prosperity 4 Trading Competition with Chenjun Kong (Team Captain), Shujaa Ali and Wenhao Yu. Chenjun is the sole decision-maker for all manual trading part and most algorithm part, Shujaa is the main contributor to algorithm trading in Round 1 and Round 3, Wenhao is the main contributor to algorithm trading in Round 3.
+Team UABT (IMC Prosperity 4): Chenjun Kong (Team Captain) is the sole decision-maker for all manual trading decisions and most algorithmic scripts; Shujaa Ali contributed to algorithmic trading in Rounds 1 and 3; Wenhao Yu contributed to algorithmic trading in Round 3.
 
 Phase 1 (Rounds 1-2): Tied for 1st place globally among ~6,500 active teams in manual trading.
 
