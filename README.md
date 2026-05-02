@@ -1,5 +1,7 @@
 # IMC-Prosperity-4
 
+~22200 teams around the world registered for this event.
+
 Team UABT
 
 Chenjun Kong (Team Captain) is the sole decision-maker for all manual trading decisions and most algorithmic scripts; 
