@@ -8,7 +8,7 @@ Shujaa Ali contributed to algorithmic trading in Rounds 1 and 3 (as well as init
 
 Wenhao Yu contributed to algorithmic trading in Round 3.
 
-
+-----------------------------------------------------------------------------------------------
 
 Phase 1 (Rounds 1-2): Tied for 1st place globally among ~6,500 active teams in manual trading.
 
