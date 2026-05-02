@@ -8,7 +8,7 @@ Shujaa Ali contributed to algorithmic trading in Rounds 1 and 3 (as well as init
 
 Wenhao Yu contributed to algorithmic trading in Round 3.
 
-Manual trading leaned more on game-theory, with some optimization involved. Algorithmic trading was new for most of us, and I picked up a lot of concepts and methods through the competition.
+Manual trading leaned more on game-theory, with some optimization involved. Algorithmic trading was new for most of us, and I picked up a lot of concepts and methods through the competition. Before Day 1, I hadn’t heard the term 'bid/ask' — I’d only worked with buy/sell in previous competitions. And it wasn’t until the end of Phase 1 that I realized how much execution strategy could matter — I thought tracking fair value is the only thing that matters, but they gave linear or stationary fair value trend in phase 1 market and we were still a bit behind on algo trading.
 
 -----------------------------------------------------------------------------------------------
 
