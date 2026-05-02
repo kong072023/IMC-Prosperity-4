@@ -1,6 +1,6 @@
 # IMC-Prosperity-4
 
-~22200 teams around the world registered for this event.
+~22,200 teams worldwide registered for this annual trading competition hosted by IMC Trading, a leading market maker.
 
 Team UABT
 
