@@ -1,6 +1,6 @@
 # IMC-Prosperity-4
 
-Team 'UABT': 
+Team UABT
 
 Chenjun Kong (Team Captain) is the sole decision-maker for all manual trading decisions and most algorithmic scripts; 
 
