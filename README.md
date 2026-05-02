@@ -8,6 +8,8 @@ Shujaa Ali contributed to algorithmic trading in Rounds 1 and 3 (as well as init
 
 Wenhao Yu contributed to algorithmic trading in Round 3.
 
+Manual trading leaned more on game-theory, with some optimization involved. Algorithmic trading was new for most of us, and I picked up a lot of concepts and methods through the competition.
+
 -----------------------------------------------------------------------------------------------
 
 Competition Results (The leaderboard resets between phases):
