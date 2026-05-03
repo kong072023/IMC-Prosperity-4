@@ -6,9 +6,9 @@ Team UABT
 
 Chenjun Kong (Team Captain) is the sole decision-maker for all manual trading decisions and most algorithmic scripts; 
 
-Shujaa Ali verified the manual trading Round 1 result from Chenjun, and contributed to algorithmic trading in Rounds 1 and 3 (as well as initiated the idea of participating in this trading competition with me); 
+Shujaa Ali verified the manual trading Round 1 result from Chenjun, and contributed a lot to the algorithmic trading in Rounds 1 and 3 (as well as initiated the idea of participating in this trading competition with me); 
 
-Wenhao Yu contributed to algorithmic trading in Round 3.
+Wenhao Yu contributed to algorithmic trading in Rounds 1 and 3.
 
 -----------------------------------------------------------------------------------------------
 
