@@ -14,7 +14,7 @@ Wenhao Yu contributed to algorithmic trading in Rounds 1 and 3.
 
 Competition Results (The leaderboard resets between phases):
 
-Phase 1 (Rounds 1-2): Tied for **1st place globally** among ~6,500 active teams in manual trading.
+Phase 1 (Rounds 1-2): Tied for **1st place globally** among 5645 active teams in manual trading.
 
 Phase 2 (Rounds 3-5): Final results pending.
 
