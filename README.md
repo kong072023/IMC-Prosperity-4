@@ -12,18 +12,24 @@ Wenhao Yu contributed to algorithmic trading in Rounds 1 and 3.
 
 -----------------------------------------------------------------------------------------------
 
-Competition Results (The leaderboard resets between phases):
+Competition Results (Leaderboard resets after Phase 1 elimination.):
 
-Phase 1 (Rounds 1-2): Tied for **1st place globally** among 6462 active teams in manual trading.
+Phase 1 / Rounds 1-2: Global 1st out of 6,462 active teams in Manual Trading (48 teams tied, top 0.8%)
 
-Phase 2 (Rounds 3-5): Final results pending.
+Phase 2 / Rounds 3-5: Global 96th out of 3,652 active teams (Canada 2nd out of 109 active teams) in Manual
 
-(To be updated)
+(Final results pending and to be updated)
+
+Manual Trading 1st place in Canada on a single-round basis in Rounds 1, 2, and 4 among 159 active teams (Phase 1) or 109 active teams (Phase 2), only one other team in Canada placed in the Manual Trading Top 10 in at least three rounds.
 
 -----------------------------------------------------------------------------------------------
 
-Manual trading leaned more on game-theory, with some of them have mathematical optimization involved.
+Manual trading relies more on game theory and market intuition, along with quantitative methods for portfolio optimization either through Markowitz or Monte Carlo. Chenjun was the sole decision-maker in manual trading and Shujaa was responsible for some review.
 
-Algorithmic trading was new for most of us, and I picked up a lot of concepts and methods through the competition. For example, it wasn’t until the end of Phase 1 that I realized how much execution strategy could matter. I had initially thought tracking fair value was all that mattered, and spent most of my time setting and tuning safety breakers for potential regime shifts. However, in Phase 1 the fair value followed relatively linear or stationary trends aligned with historical data, and we were still a bit behind on algo trading which is why I realized that problem.
+Algorithmic trading was relatively new to all of us and we had to explore it during the competition. I didn’t have a reliable backtester until Round 4 when I found an open-source backtester on GitHub building on prior work by other contributors. Meanwhile, I wasn’t aware that a good execution strategy could be a main difference maker of alpha through small price movements, and overfocused on fair value modeling at first.
 
-By the end of the competition, we had learned a lot about quantitative trading strategies.
+Going forward, in algorithmic trading, a lot can be learned from a wide range of sources, including open-source materials and industry practices, to understand how others approach similar problems and then incorporate my own understanding into them. Stochastic programming from OR and time series analysis from physics, statistics and control theory could be great tools to aid in that case.
+
+It was a great experience to learn all this from the competition.
+
+Hosted by IMC Trading from April 14 to April 30, 2026.
