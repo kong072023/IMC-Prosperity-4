@@ -18,7 +18,7 @@ Phase 1 / Rounds 1-2: Global 1st out of 6,462 active teams in Manual Trading (48
 
 Phase 2 / Rounds 3-5: Global 211th out of 3,652 active teams (Canada 9nd out of 109 active teams) in Manual Trading; All the way top 2 in Canada until last round R5 due to a totally opposite news trading strategy in one of the trading goods :(.
 
-Manual Trading 1st place in Canada on a single-round basis in Rounds 1, 2, and 4 among 159 active teams (Phase 1) or 109 active teams (Phase 2).
+Manual Trading 1st in Canada on a single-round basis in Rounds 1, 2, and 4 among 159 active teams (Phase 1) or 109 active teams (Phase 2).
 
 -----------------------------------------------------------------------------------------------
 
